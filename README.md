@@ -1,7 +1,6 @@
 # Deep Learning - Image Captioning with Convolutional and Recurrent Neural Nets
 ========================================================================  
 
-Author: Jonathan Kuo  
 Python: 3.6.1  
 TensorFlow: 1.0.1
 Keras: 2.0.4
